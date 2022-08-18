@@ -1,0 +1,14 @@
+name: SpawnControl
+version: '${project.version}'
+main: io.sqks.spawncontrol.SpawnControl
+api-version: 1.19
+prefix: SpawnControl
+authors: [ Megotta ]
+description: This plugin allows admins to set multiple start locations so that a new player may randomly spawn to one on first login.
+website: http://www.sqks.io
+commands:
+    spawncontrol:
+        description: Type /spawncontrol help plugin usage details
+        usage: /spawncontrol [set/list/delete]
+        alias: [sc]
+

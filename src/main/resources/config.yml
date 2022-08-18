@@ -1,0 +1,10 @@
+# Please visit https://www.sqks.io/ for additional plugin information
+spawn-control-enabled: true
+
+########  You can preset starting spawn locations here
+########   use the format [world_name,x,y,z] for each location
+########   this will be updated when defined in game
+start-spawn-locations:
+  - [sqks_room_004, 0, 0, 0]
+  - [sqks_room_004, 102, 234, 23]
+  - [sqks_room_004, 2, 323, 23]
